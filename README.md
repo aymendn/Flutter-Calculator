@@ -1,2 +1,2 @@
 # Flutter Calculator 📱🔢
-###A fully functional calculator app made using Flutter
+### A fully functional calculator app made using Flutter
