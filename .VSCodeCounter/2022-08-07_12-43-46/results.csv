@@ -1,0 +1,22 @@
+"filename", "language", "Dart", "comment", "blank", "total"
+"e:\Flutter\Flutter Projects\calculator\lib\core\app_color.dart", "Dart", 37, 4, 15, 56
+"e:\Flutter\Flutter Projects\calculator\lib\core\app_constant.dart", "Dart", 17, 0, 3, 20
+"e:\Flutter\Flutter Projects\calculator\lib\core\app_icon.dart", "Dart", 6, 0, 2, 8
+"e:\Flutter\Flutter Projects\calculator\lib\core\app_theme.dart", "Dart", 64, 6, 8, 78
+"e:\Flutter\Flutter Projects\calculator\lib\core\index.dart", "Dart", 4, 0, 0, 4
+"e:\Flutter\Flutter Projects\calculator\lib\helpers\style_logic.dart", "Dart", 45, 0, 4, 49
+"e:\Flutter\Flutter Projects\calculator\lib\main.dart", "Dart", 32, 0, 5, 37
+"e:\Flutter\Flutter Projects\calculator\lib\models\calculation.dart", "Dart", 6, 0, 2, 8
+"e:\Flutter\Flutter Projects\calculator\lib\providers\calculations.dart", "Dart", 155, 3, 27, 185
+"e:\Flutter\Flutter Projects\calculator\lib\providers\theme_provider.dart", "Dart", 15, 0, 5, 20
+"e:\Flutter\Flutter Projects\calculator\lib\screens\home_screen.dart", "Dart", 192, 1, 14, 207
+"e:\Flutter\Flutter Projects\calculator\lib\widgets\button.dart", "Dart", 44, 0, 5, 49
+"e:\Flutter\Flutter Projects\calculator\lib\widgets\buttons_grid.dart", "Dart", 23, 0, 4, 27
+"e:\Flutter\Flutter Projects\calculator\lib\widgets\custom_icon.dart", "Dart", 19, 0, 4, 23
+"e:\Flutter\Flutter Projects\calculator\lib\widgets\custom_switch.dart", "Dart", 38, 0, 4, 42
+"e:\Flutter\Flutter Projects\calculator\lib\widgets\gradient_button.dart", "Dart", 0, 0, 2, 2
+"e:\Flutter\Flutter Projects\calculator\lib\widgets\gradient_divider.dart", "Dart", 13, 0, 4, 17
+"e:\Flutter\Flutter Projects\calculator\lib\widgets\input_feild.dart", "Dart", 53, 0, 7, 60
+"e:\Flutter\Flutter Projects\calculator\lib\widgets\landscape_only_buttons_grid.dart", "Dart", 23, 0, 4, 27
+"e:\Flutter\Flutter Projects\calculator\lib\widgets\last_answer.dart", "Dart", 33, 0, 4, 37
+"Total", "-", 819, 14, 123, 956
