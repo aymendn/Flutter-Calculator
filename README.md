@@ -25,6 +25,12 @@ You can check it out from here: https://www.figma.com/community/file/11395641285
 - [flutter_svg](https://pub.dev/packages/flutter_svg): for SVG icons.
 - [shared_preferences](https://pub.dev/packages/shared_preferences): to save history and theme mode loacaly.
 
+# 📂 Download the app and test it
+
+- ### [📱 Android](https://github.com/aymendn/Flutter-Calculator/releases/download/v1.0.0/Flutter-Calculator.apk)
+
+- ### [💻 Windows](https://github.com/aymendn/Flutter-Calculator/releases/download/v1.0.0/Windows-Release.rar)
+
 # 🤝 Contribution
 
 This project is open for any kind of contribution.
