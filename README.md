@@ -16,17 +16,17 @@ A fully functional calculator app made using Flutter
 
 There is also a free Figma project for this app.
 
-You can check it out from here: <a href="https://www.figma.com/community/file/1139564128546110522" target="_blank">https://www.figma.com/community/file/1139564128546110522</a>
+You can check it out from here: https://www.figma.com/community/file/1139564128546110522
 
 # 🔨 Used packages
 
-- <a href="https://pub.dev/packages/provider" target="_blank">provider</a>: for state management.
-- <a href="https://pub.dev/packages/eval_ex" target="_blank">eval_ex</a>: for mathematical equation evaluation.
-- <a href="https://pub.dev/packages/flutter_svg" target="_blank">flutter_svg</a>: for SVG icons.
-- <a href="https://pub.dev/packages/shared_preferences" target="_blank">shared_preferences</a>: to save history and theme mode loacaly.
+- [provider](https://pub.dev/packages/provider): for state management.
+- [eval_ex](https://pub.dev/packages/eval_ex): for mathematical equation evaluation.
+- [flutter_svg](https://pub.dev/packages/flutter_svg): for SVG icons.
+- [shared_preferences](https://pub.dev/packages/shared_preferences): to save history and theme mode loacaly.
 
 # 🤝 Contribution
 
 This project is open for any kind of contribution.
 
-If you have noticed any bad practices or using things in the wrong way, please notify me via my email: <a href="mailto:aymendnb@gmail.com?subject=Flutter%20calculator%20app" target="_blank">aymendnb@gmail.com</a>.
+If you have noticed any bad practices or using things in the wrong way, please notify me via my email: [aymendnb@gmail.com](mailto:aymendnb@gmail.com?subject=Flutter%20calculator%20app)
