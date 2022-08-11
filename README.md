@@ -2,7 +2,7 @@
 A fully functional calculator app made using Flutter
 
 <p align="center">
-<img src="screenshots/thumbnail.png" alt="Thumbnail" width="680"/>
+<img src="screenshots/thumbnail.png" alt="Thumbnail" width="660"/>
 </p>
 
 # 📷 screenshots
