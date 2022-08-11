@@ -20,10 +20,10 @@ You can check it out from here: https://www.figma.com/community/file/11395641285
 
 # 🔨 Used packages
 
-- [provider](https://pub.dev/packages/provider): for state management.
-- [eval_ex](https://pub.dev/packages/eval_ex): for mathematical equation evaluation.
-- [flutter_svg](https://pub.dev/packages/flutter_svg): for SVG icons.
-- [shared_preferences](https://pub.dev/packages/shared_preferences): to save history and theme mode loacaly.
+- <a href="https://pub.dev/packages/provider" target="_blank">provider</a>: for state management.
+- <a href="https://pub.dev/packages/eval_ex" target="_blank">eval_ex</a>: for mathematical equation evaluation.
+- <a href="https://pub.dev/packages/flutter_svg" target="_blank">flutter_svg</a>: for SVG icons.
+- <a href="https://pub.dev/packages/shared_preferences" target="_blank">shared_preferences</a>: to save history and theme mode loacaly.
 
 # 🤝 Contribution
 
