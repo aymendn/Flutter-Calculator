@@ -16,7 +16,7 @@ A fully functional calculator app made using Flutter
 
 There is also a free Figma project for this app.
 
-You can check it out from here: https://www.figma.com/community/file/1139564128546110522
+You can check it out from here: <a href="https://www.figma.com/community/file/1139564128546110522" target="_blank">https://www.figma.com/community/file/1139564128546110522</a>
 
 # 🔨 Used packages
 
