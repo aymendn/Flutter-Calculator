@@ -29,4 +29,4 @@ You can check it out from here: https://www.figma.com/community/file/11395641285
 
 This project is open for any kind of contribution.
 
-If you have noticed any bad practices or using things in the wrong way, please notify me via my email: [aymendnb@gmail.com](mailto:aymendnb@gmail.com?subject=Flutter%20calculator%20app)
+If you have noticed any bad practices or using things in the wrong way, please notify me via my email: <a href="mailto:aymendnb@gmail.com?subject=Flutter%20calculator%20app" target="_blank">aymendnb@gmail.com</a>.
